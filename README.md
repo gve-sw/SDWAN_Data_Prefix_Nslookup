@@ -1,5 +1,5 @@
 # Automation of Data Prefix List updation on vManage
-This script intends to automate the query new prefixes related to a domain and update the same to the data prefix list on vManage
+New prefixes are added to a domain time to time. This script intends to automate the querying for new prefixes related to a domain and update the same to the data prefix list on vManage without human intervention.
 
 #### Author:
 
